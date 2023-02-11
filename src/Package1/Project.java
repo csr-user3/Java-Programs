@@ -99,6 +99,8 @@ public class Project {
 //			itr.remove();
 //		}
 //		System.out.println(colors);
+		
+		System.out.println("some");
 	}
 	
 
